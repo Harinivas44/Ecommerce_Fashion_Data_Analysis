@@ -2,6 +2,8 @@
 
 Welcome to the Ecommerce Fashion Data Analysis Project repository! This project provides a comprehensive end-to-end analysis of an Ecommerce fashion business, covering sales, orders, customer preferences, and operational efficiency. The insights presented here aim to empower decision-makers with valuable information for strategic planning and business optimization.
 
+Presentation - https://1drv.ms/p/s!AsPUNyOiFGEzhlYY7jtMfvaTbj55?e=vahrmg
+
 ## Key Insights
 
 ### Sales and Orders Overview
